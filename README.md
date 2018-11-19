@@ -1,6 +1,7 @@
 # vueproject
 
 > A Vue.js project
+![project-vueProject项目](https://github.com/usernameus/Data_C/blob/master/pic_elment1.png)
 
 ## Build Setup
 
